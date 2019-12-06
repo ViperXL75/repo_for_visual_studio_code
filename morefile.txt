@@ -1,4 +1,5 @@
 This is morefile.
 Deleted some things
 and aded others at 14:53 on 3dec
-Another line added at 6dec19 8:03
+Another line added at 6dec19 8:03 (straight from Github)
+This line added from VSC 4dec19 8:04
